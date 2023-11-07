@@ -1,2 +1,2 @@
 # Codespace-induction
-Exercises for Codespace induction (Introduction to Software Development) course
+📑📓📖 Exercises for the Codespace induction course (Introduction to Software Development).
